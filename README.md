@@ -30,7 +30,7 @@
 [Download](https://github.com/Hyzen-dev/hyzen-npcdialogs)
 
 :film_strip: **Preview:**
-[Preview](https://www.youtube.com/watch?v=lKj3H_tjbW8)
+[Preview](https://www.youtube.com/watch?v=7TzKkU6Gwjk)
 
 :globe_with_meridians: **Cfx Forums**
 [Forums](https://forum.cfx.re/t/free-qbcore-esx-legacy-hyzen-npc-dialogs-system/5185493)
@@ -74,7 +74,7 @@ Your feedback is invaluable to us as we continue to improve the script.
 [Download](https://github.com/Hyzen-dev/hyzen-npcdialogs)
 
 :film_strip: **Preview:**
-[Preview](https://www.youtube.com/watch?v=lKj3H_tjbW8)
+[Preview](https://www.youtube.com/watch?v=7TzKkU6Gwjk)
 
 :globe_with_meridians: **Cfx Forums**
 [Forums](https://forum.cfx.re/t/free-qbcore-esx-legacy-hyzen-npc-dialogs-system/5185493)

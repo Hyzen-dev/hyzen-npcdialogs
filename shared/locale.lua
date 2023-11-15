@@ -1,0 +1,1 @@
+Locale = Lang[Config.Lang or 'en']

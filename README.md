@@ -29,11 +29,11 @@
 :page_facing_up: **GitHub Repository:**
 [Download](https://github.com/Hyzen-dev/hyzen-npcdialogs)
 
-:camera: **Preview:**
-![Preview](https://youtu.be/7TzKkU6Gwjk)
+:film_strip: **Preview:**
+[Preview](https://www.youtube.com/watch?v=lKj3H_tjbW8)
 
 :globe_with_meridians: **Cfx Forums**
-[Forums](https://forum.cfx.re/)
+[Forums](https://forum.cfx.re/t/free-qbcore-esx-legacy-hyzen-npc-dialogs-system/5185493)
 
 :speech_balloon: **Join our Discord**
 [Discord](https://discord.gg/wQ2CevwQ5K)
@@ -73,11 +73,11 @@ Your feedback is invaluable to us as we continue to improve the script.
 :page_facing_up: **Dépôt GitHub:**
 [Download](https://github.com/Hyzen-dev/hyzen-npcdialogs)
 
-:camera: **Aperçu:**
-![Preview](https://youtu.be/7TzKkU6Gwjk)
+:film_strip: **Preview:**
+[Preview](https://www.youtube.com/watch?v=lKj3H_tjbW8)
 
 :globe_with_meridians: **Cfx Forums**
-[Forums](https://forum.cfx.re/)
+[Forums](https://forum.cfx.re/t/free-qbcore-esx-legacy-hyzen-npc-dialogs-system/5185493)
 
 :speech_balloon: **Rejoignez notre discord**
 [Discord](https://discord.gg/wQ2CevwQ5K)
